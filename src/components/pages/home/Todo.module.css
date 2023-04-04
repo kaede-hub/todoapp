@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(235, 239, 242);
+}
+
+.container {
+  text-align: center;
+}
+
+.main {
+  text-align: center;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.heading {
+  padding-top: 20px;
+}/*# sourceMappingURL=Todo.module.css.map */

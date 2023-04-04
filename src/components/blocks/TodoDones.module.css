@@ -1,0 +1,22 @@
+.todoDoneHeading {
+  font-weight: bold;
+  padding: 20px;
+  margin: 20px;
+}
+
+.complete {
+  background-color: skyblue;
+  width: 100vw;
+  height: 100vh;
+  list-style: none;
+  border-radius: 5px;
+}
+
+.done {
+  padding: 20px;
+  font-weight: bold;
+}
+
+.item {
+  list-style: none;
+}/*# sourceMappingURL=TodoDones.module.css.map */
